@@ -1,8 +1,9 @@
 
 # **# THM-NMAP**
 
-**Advanced Nmap reconnaissance lab demonstrating systematic host discovery, TCP SYN (-sS), UDP (-sU), OS (-O), and service/version (-sV) fingerprinting, timing control (-T0–T5), and multi-format output (-oA) for high-fidelity network enumeration and adversarial simulation.**
-**By Ramyar Daneshgar**
+Advanced Nmap reconnaissance lab demonstrating systematic host discovery, TCP SYN (-sS), UDP (-sU), OS (-O), and service/version (-sV) fingerprinting, timing control (-T0–T5), and multi-format output (-oA) for high-fidelity network enumeration and adversarial simulation.
+
+By Ramyar Daneshgar
 
 ---
 
